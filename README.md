@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Distributed File System
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Built a Distributed File System using blockchain and smart contracts in Solidity for secure file storage and sharing.
 
-Try running some of the following tasks:
+Implemented access control via smart contracts, allowing only authorized users to access uploaded files.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+Ensured decentralized, tamper-proof storage with enhanced privacy and ownership transparency.
